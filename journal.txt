@@ -21,3 +21,7 @@ MD simulation in Fig.1 shows the edge dislocation interaction with hydrogen. It 
 Methodology:
 
 We use various characterisation technique like SEM, EBSD, TEM. The insturemtns were described in Green et al 2010. 
+
+Conclusions:
+
+We gained valuable insight into the H induced embrittlement of nickel based superalloys.  
