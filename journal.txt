@@ -9,3 +9,7 @@ Dislocation interaction with hydrogen
 Introduction:
 
 Hydrogen embrittlement is a crucial issue for nickel-based superalloys. The current lack of mechanistic understanding hamper the development of new alloys (Z. Zhang 2016). Recent studies suggest that dislocation hydrogen interaction plays a key role in hydrogen embrittlement of nickel based superalloys (J. Li 2017). 
+
+Experimental:
+
+Transmission electron microscope was used to characterise the nano-voids in the alloys caused by dislocation hydrogne interaction.
