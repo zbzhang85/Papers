@@ -16,15 +16,14 @@ Hydrogen embrittlement is a crucial issue for nickel-based superalloys. The curr
 
 Experimental:
 
-Transmission electron microscope was used to characterise the nano-voids in the alloys caused by dislocation hydrogne interaction.
+Transmission electron microscope was used to characterise the nano-voids in the alloys caused by dislocation hydrogne interaction. 
+We use various characterisation technique like SEM, EBSD, TEM. The insturemtns were described in Green et al 2010.
+
 
 Results:
 
 MD simulation in Fig.1 shows the edge dislocation interaction with hydrogen. It shows that H pin dislocations at hight strain rate. H was transported by dislocations at slow strain rate.
 
-Methodology:
-
-We use various characterisation technique like SEM, EBSD, TEM. The insturemtns were described in Green et al 2010.
 
 Conclusions:
 
