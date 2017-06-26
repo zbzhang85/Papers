@@ -1,6 +1,6 @@
 Title: Dislocation interaction with hydrogen-MD simulation and experimental verification
 
-Authors: Z. Zhang, M. Preuss, R. Morana
+Authors: R. Morana, Z. Zhang, M. Preuss
 
 University of Manchester
 BP Ltd.
@@ -8,11 +8,11 @@ BP Ltd.
 
 Abstract
 
-Dislocation interaction with hydrogen 
+Dislocation interaction with hydrogen is the most important reason for hydrogen embrittlement. In this paper we did systematic study.
 
 Introduction:
 
-Hydrogen embrittlement is a crucial issue for nickel-based superalloys. The current lack of mechanistic understanding hamper the development of new alloys (Z. Zhang 2016). Recent studies suggest that dislocation hydrogen interaction plays a key role in hydrogen embrittlement of nickel based superalloys (J. Li 2017). 
+Hydrogen embrittlement is a crucial issue for nickel-based superalloys. The current lack of mechanistic understanding hamper the development of new alloys (Z. Zhang 2016). Recent studies suggest that dislocation hydrogen interaction plays a key role in hydrogen embrittlement of nickel based superalloys (J. Li 2017).
 
 Experimental:
 
@@ -20,19 +20,20 @@ Transmission electron microscope was used to characterise the nano-voids in the 
 
 Results:
 
-MD simulation in Fig.1 shows the edge dislocation interaction with hydrogen. It shows that H pin dislocations at hight strain rate. H was transported by dislocations at slow strain rate. 
+MD simulation in Fig.1 shows the edge dislocation interaction with hydrogen. It shows that H pin dislocations at hight strain rate. H was transported by dislocations at slow strain rate.
 
 Methodology:
 
-We use various characterisation technique like SEM, EBSD, TEM. The insturemtns were described in Green et al 2010. 
+We use various characterisation technique like SEM, EBSD, TEM. The insturemtns were described in Green et al 2010.
 
 Conclusions:
 
-We gained valuable insight into the H induced embrittlement of nickel based superalloys.  
+We gained valuable insight into the H induced embrittlement of nickel based superalloys.
 
 Figures:
 Figure 1-12
 
 Acknoledgement
 
-Thanks to the funding support through BP-ICAM. ZZ would like to thank Dr Brown for helping with TEM. 
+
+Thanks to the funding support through BP-ICAM. ZZ would like to thank Dr Brown for helping with TEM. Thanks also to everyone else in the Universe.
