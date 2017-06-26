@@ -1,6 +1,6 @@
 Title: Dislocation interaction with hydrogen-MD simulation and experimental verification
 
-Authors: Z. Zhang, M. Preuss, R. Morana
+Authors: R. Morana, Z. Zhang, M. Preuss
 
 Abstract
 
