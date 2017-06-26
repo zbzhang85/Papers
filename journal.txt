@@ -1,4 +1,4 @@
-Title: Dislocation interaction with hydrogen-MD simulation
+Title: Dislocation interaction with hydrogen-MD simulation and DFT calculation
 
 Authors: Z. Zhang, M. Preuss
 
