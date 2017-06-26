@@ -5,3 +5,7 @@ Authors: Z. Zhang, M. Preuss
 Abstract
 
 Dislocation interaction with hydrogen 
+
+Introduction:
+
+Hydrogen embrittlement is a crucial issue for nickel-based superalloys. The current lack of mechanistic understanding hamper the development of new alloys. 
