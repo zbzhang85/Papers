@@ -16,4 +16,4 @@ Transmission electron microscope was used to characterise the nano-voids in the 
 
 Results:
 
-MD simulation in Fig.1 shows the edge dislocation interaction with hydrogen. 
+MD simulation in Fig.1 shows the edge dislocation interaction with hydrogen. It shows that H pin dislocations. 
